@@ -1,9 +1,12 @@
 {
   "name": "hivesync_utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
-  "main": "dir/index.js",
-  "types": "dir/index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*"
+  ],
   "scripts": {
     "build": "tsc",
     "dev": "ts-node-dev --poll src/index.ts",

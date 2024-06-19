@@ -3,3 +3,4 @@ export declare enum API_STATUS {
     FAILED = "FAILED",
     ACCESS_DENIED = "ACCES DENIED"
 }
+//# sourceMappingURL=response_status.d.ts.map

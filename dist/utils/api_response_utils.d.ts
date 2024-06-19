@@ -25,3 +25,4 @@ export declare const custom_response: ({ data, code, status, }: {
     CODE: StatusCodes;
     STATUS: API_STATUS;
 };
+//# sourceMappingURL=api_response_utils.d.ts.map
